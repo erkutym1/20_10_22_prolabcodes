@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1666280398 source:c:\c test\codeblocks\201022ders\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1666277906 source:c:\c test\codeblocks\201022ders\ders1.c
+	<stdio.h>
+	<stdlib.h>
+
+1666278123 source:c:\c test\codeblocks\201022ders\ders3.c
+	<stdio.h>
+	<stdlib.h>
+
+1666278202 source:c:\c test\codeblocks\201022ders\ders4.c
+	<stdio.h>
+	<stdlib.h>
+
+1666278202 source:c:\c test\codeblocks\201022ders\ders5.c
+	<stdio.h>
+	<stdlib.h>
+
+1666278228 source:c:\c test\codeblocks\201022ders\ders2.c
+	<stdio.h>
+	<stdlib.h>
+
